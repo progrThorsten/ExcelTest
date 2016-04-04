@@ -138,7 +138,7 @@ namespace ExcelDemoTest
             Assert.AreEqual(mainThread.IsAlive, false);
         }
 
-        [TestMethod]
+        //[TestMethod]
         public void testEditExcelSheet()
         {
             editFileWithAddFile();
