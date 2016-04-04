@@ -7,8 +7,8 @@
     <ProjectGuid>{1DAD26DC-91FA-4F69-8010-0A0DEDD725F1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>XtabFileOpener</RootNamespace>
-    <AssemblyName>XtabFileOpener</AssemblyName>
+    <RootNamespace>ExcelDemo</RootNamespace>
+    <AssemblyName>ExcelDemo</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -52,7 +52,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <Prefer32Bit>false</Prefer32Bit>
-    <DocumentationFile>bin\Release\XtabFileOpener.XML</DocumentationFile>
+    <DocumentationFile>bin\Release\ExcelDemo.xml</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup>
     <StartupObject>ExcelDemo.Runner</StartupObject>

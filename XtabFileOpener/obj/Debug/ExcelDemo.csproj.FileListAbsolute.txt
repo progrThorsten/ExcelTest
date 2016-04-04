@@ -11,3 +11,4 @@ C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\ob
 C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\obj\Debug\XtabFileOpener.exe.manifest
 C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\obj\Debug\XtabFileOpener.application
 C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\obj\Debug\ExcelDemo.csprojResolveAssemblyReference.cache
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\bin\Debug\ExcelDemo.exe.config
