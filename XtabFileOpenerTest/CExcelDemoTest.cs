@@ -131,14 +131,14 @@ namespace ExcelDemoTest
         }
 
         [TestCleanup]
-        public void endTest()
+        public void end()
         {
             spreadSheetMock.mock.Object.closeSpreadsheet();
             Thread.Sleep(1000);
             Assert.AreEqual(mainThread.IsAlive, false);
         }
 
-        //[TestMethod]
+        [TestMethod]
         public void testEditExcelSheet()
         {
             editFileWithAddFile();
