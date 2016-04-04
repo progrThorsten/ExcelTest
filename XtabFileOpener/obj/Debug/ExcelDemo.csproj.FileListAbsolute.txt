@@ -1,0 +1,13 @@
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\bin\Debug\ExcelDemo.exe.config
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\bin\Debug\ExcelDemo.exe.manifest
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\bin\Debug\ExcelDemo.application
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\bin\Debug\ExcelDemo.exe
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\bin\Debug\ExcelDemo.pdb
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\obj\Debug\ExcelDemo.csprojResolveAssemblyReference.cache
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\obj\Debug\ExcelDemo.csproj.ResolveComReference.cache
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\obj\Debug\ExcelDemo.Properties.Resources.resources
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\obj\Debug\ExcelDemo.csproj.GenerateResource.Cache
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\obj\Debug\ExcelDemo.exe.manifest
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\obj\Debug\ExcelDemo.application
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\obj\Debug\ExcelDemo.exe
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpener\obj\Debug\ExcelDemo.pdb
