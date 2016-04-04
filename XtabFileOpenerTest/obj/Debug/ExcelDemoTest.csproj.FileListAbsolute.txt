@@ -1,0 +1,14 @@
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpenerTest\bin\Debug\XtabFileOpenerTest.dll
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpenerTest\bin\Debug\XtabFileOpenerTest.pdb
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpenerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpenerTest\bin\Debug\Moq.dll
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpenerTest\bin\Debug\XtabFileOpener.exe
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpenerTest\bin\Debug\XtabFileOpener.pdb
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpenerTest\bin\Debug\Moq.xml
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpenerTest\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpenerTest\obj\Debug\ExcelDemoTest.csprojResolveAssemblyReference.cache
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpenerTest\obj\Debug\ExcelDemoTest.csproj.ResolveComReference.cache
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpenerTest\obj\Debug\XtabFileOpenerTest.Properties.Resources.resources
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpenerTest\obj\Debug\ExcelDemoTest.csproj.GenerateResource.Cache
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpenerTest\obj\Debug\XtabFileOpenerTest.dll
+C:\Users\mairs\Documents\Visual Studio 2015\Projects\ExcelTest\XtabFileOpenerTest\obj\Debug\XtabFileOpenerTest.pdb
